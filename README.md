@@ -1,6 +1,6 @@
 # Tuya Smart Light Demo App
 
-This project is developed using [Tuya Android Home App SDK](https://github.com/tuya/tuya-home-android-sdk), which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
+This project wins the Tuya App SDK Camp Competition in Dec, 2020 by 徐阳. It's developed using [Tuya Android Home App SDK](https://github.com/tuya/tuya-home-android-sdk), which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 
 For more information, please check [Tuya Developer Website](https://developer.tuya.com/cn/).
 
@@ -17,6 +17,9 @@ For more information, please check [Tuya Developer Website](https://developer.tu
 本次实现的实现比较简单，只是检测图片的平均值来决定灯的颜色，后续可添加智能检测算法。
 
 作品展示图片：
+
+![image1](./images/demoImage.png)
+![video](./images/demoVideo_徐阳作品展示.mp4)
 
 ### 个人心得
 
