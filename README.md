@@ -19,7 +19,6 @@ For more information, please check [Tuya Developer Website](https://developer.tu
 作品展示图片：
 
 ![image1](./images/demoImage.png)
-![video](./images/demoVideo_徐阳作品展示.mp4)
 
 ### 个人心得
 
